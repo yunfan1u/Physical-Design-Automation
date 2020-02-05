@@ -1,0 +1,10 @@
+How to compile?
+	$ make
+
+How to run?
+	$ ./FM ../testcases/<.cells file> ../testcases/<.nets file> <.out file>
+
+How to verify?
+	in HW2/verify/
+	$ ./verify ../testcases/<.nets file> ../testcases/<.cells file> ../output/<.out file>
+

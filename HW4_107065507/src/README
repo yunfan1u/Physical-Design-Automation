@@ -1,0 +1,10 @@
+How to compile?
+	$ make
+
+How to run?
+	$ ./hw4 ../testcase/<.aux>
+
+How to verify?
+	in HW4/verify/
+	$ ./verify ../testcase/<.aux> ../output/<.result> 
+

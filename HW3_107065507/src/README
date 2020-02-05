@@ -1,0 +1,10 @@
+How to compile?
+	$ make
+
+How to run?
+	$ ./hw3 ../testcases/<.hardblocks> ../testcases/<.nets> ../testcases/<.pl> <.floorplan> white_space_ratio
+
+How to verify?
+	in HW3/verify/
+	$ ./verify ../testcases/<.hardblocks> ../testcases/<.nets> ../testcases/<.pl> ../output/<.floorplan> white_space_ratio
+

@@ -1,0 +1,10 @@
+How to compile?
+	$ make
+
+How to run?
+	$ ./hw5 ../testcase/<.modified.txt> <.result>
+
+How to verify?
+	in HW5/verify/
+	$ ./verify ../testcase/<.modified.txt> ../output/<.result> 
+
